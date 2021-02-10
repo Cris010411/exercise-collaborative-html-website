@@ -1,0 +1,222 @@
+[33mcommit d6ae037a4e0d8c76bfb3fa10c6f95c9165ecff5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: cb81332 796b97d
+Author: Cristopher Ruiz <cris-nando01@hotmail.com>
+Date:   Wed Feb 10 02:48:56 2021 +0000
+
+    Merge branch 'master' of https://github.com/Cris010411/exercise-collaborative-html-website
+
+[33mcommit cb81332e94e73c3610509a395662095d3ee51a56[m
+Merge: 08f1a14 c7342c1
+Author: Cristopher Ruiz <cris-nando01@hotmail.com>
+Date:   Wed Feb 10 02:48:22 2021 +0000
+
+    Modificacion
+
+[33mcommit 796b97d1fabbfb5d48bd0a0d1df2d4b1e7c7d254[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: J Cerdas <jaimecerdas@gmail.com>
+Date:   Wed Feb 10 02:45:13 2021 +0000
+
+    segunda version
+
+[33mcommit 08f1a147f92d37676a5edc8b851c54eab5f93341[m
+Author: Cristopher Ruiz <cris-nando01@hotmail.com>
+Date:   Wed Feb 10 02:37:42 2021 +0000
+
+    creado navbar
+
+[33mcommit c7342c111262a2e28d57ad889b7869d83db95943[m
+Author: J Cerdas <jaimecerdas@gmail.com>
+Date:   Wed Feb 10 02:35:25 2021 +0000
+
+    Contact Form primera version
+
+[33mcommit 8670ad32cd75223b32ff0f4ded38e2252455a0d0[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Oct 21 21:26:35 2020 -0400
+
+    Update README.md
+
+[33mcommit dbda145c890c09f423b73a92ddc5976b6916146e[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Oct 21 21:25:51 2020 -0400
+
+    Update README.md
+
+[33mcommit 641317e25a9540228f345f6f801b7e6f838c3442[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Oct 21 21:25:28 2020 -0400
+
+    Update README.md
+
+[33mcommit f0f7ed491913847675b9966d77b09bc45407076e[m
+Merge: 317aba1 d089e18
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 21 18:52:11 2020 -0400
+
+    Merge pull request #17 from JimenaEB/patch-1
+    
+    Update README
+
+[33mcommit d089e18fd85625d64f6e3744870c8983f7d482c3[m
+Author: Jimena Escobar Bermúdez <jime.ebermudez@gmail.com>
+Date:   Tue Jul 21 23:15:35 2020 +0200
+
+    Update README
+    
+    Add the option for the teacher to be the team lead
+
+[33mcommit 317aba19786ce24f1dd4fe5263f1dd47e798d50d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sun May 24 18:39:49 2020 -0400
+
+    Update README.md
+
+[33mcommit 6716ae3acaa236a0028d142a46a45799525950f0[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 11:22:16 2020 -0400
+
+    Update learn.json
+
+[33mcommit 92d779ac1eabc4f96cc882d60c53194b59887869[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 11:21:02 2020 -0400
+
+    Update learn.json
+
+[33mcommit 24bb8226588be5ab1e13d3b0f7b81920ddb82db5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 11:20:53 2020 -0400
+
+    Update learn.json
+
+[33mcommit 0e372f3508fa9dc5fa1b4785f3fbdde27fad4c7f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 11:19:40 2020 -0400
+
+    Update README.md
+
+[33mcommit 77e40784eb7217ed69f92c9ff9423f8c7cd655ec[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 15:18:32 2020 +0000
+
+    preview
+
+[33mcommit 9b0e0299cb06ae6a26d6269a8d619fb9fde9062b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 11:03:44 2020 -0400
+
+    Create learn.json
+
+[33mcommit 1f8275504e8332d09839028e98e09534aeddc87c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 10:58:10 2020 -0400
+
+    Update README.md
+
+[33mcommit 2471bcfc1a756e258c3c9ac71400682d38bca37b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 10:57:25 2020 -0400
+
+    Update README.md
+
+[33mcommit 4b7bae09bb166698415022fa45fc9f1ab0e3599f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 10:57:07 2020 -0400
+
+    Update README.md
+
+[33mcommit 960ef2f7be463f52df78e7b16e0638184867a310[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 10:29:35 2020 -0400
+
+    Add files via upload
+
+[33mcommit ae518afa5d524b8aca31ca35c746632382748a2c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 22 10:24:22 2020 -0400
+
+    Update README.md
+
+[33mcommit 73aaf53db84c42a85abd9a03ec97abd659bf7245[m
+Merge: cea192c df1e298
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon May 4 10:17:26 2020 -0400
+
+    Merge pull request #3 from nachovz/patch-2
+    
+    Update index.html
+
+[33mcommit cea192cb5f8635db93e4f771807f7d834cb9b068[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 21 14:59:38 2020 -0400
+
+    Update README.md
+
+[33mcommit 605bb97c8aca413bf88f8a32b2ed8f335ac7e2d4[m
+Merge: fd8226b 4c7e69e
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Oct 18 15:40:46 2018 -0400
+
+    Merge pull request #2 from nachovz/patch-1
+    
+    Update to Bootstrap 4
+
+[33mcommit df1e2981d8b1edf555466e71394fafce41dd9629[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Wed Oct 17 15:14:23 2018 -0400
+
+    Update index.html
+
+[33mcommit 4c7e69e09bc634081478d9bb7201f5cb199e7398[m
+Author: Ignacio Cordoba <icordoba@4geeks.co>
+Date:   Wed Oct 17 15:06:50 2018 -0400
+
+    Update to Bootstrap 4
+
+[33mcommit fd8226b3c4d7846de3ac6df1130ada6056627629[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Jun 23 01:22:47 2018 -0400
+
+    Update README.md
+
+[33mcommit 53fe892bda8062e29f63f397ee4e6b00589df0db[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Jun 23 01:21:53 2018 -0400
+
+    Update README.md
+
+[33mcommit f9dcaba09104b051113ea22245faa53f25eb946b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Mar 21 18:36:26 2018 -0400
+
+    Update README.md
+
+[33mcommit e3b72c06d51f2609ac07e11843fb32e7c785b1e3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Mar 21 22:31:13 2018 +0000
+
+    update for the template engine including autoload
+
+[33mcommit 9e6332ca887e1740b20ec8766f8534c2880f4ffa[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Mar 21 20:01:52 2018 +0000
+
+    using the html-template-engine library for loading the HTML templates
+
+[33mcommit 669c895c5be5f679250dec9ace622a235dec0316[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 15 23:09:56 2018 +0000
+
+    initial commit
+
+[33mcommit d73f9af7fb614ab271e2f4d54aeb739c41bae16e[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 15 22:59:02 2018 +0000
+
+    initial commit
+
+[33mcommit f88ed7b34edafb11aacd1007aacad2a328ca4db6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 15 22:56:42 2018 +0000
+
+    initial commit
